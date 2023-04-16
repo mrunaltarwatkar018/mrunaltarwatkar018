@@ -1,4 +1,5 @@
-<img align="centre" width="1050" src="https://media.licdn.com/dms/image/C4E16AQGjtgye_8efMw/profile-displaybackgroundimage-shrink_350_1400/0/1616081942630?e=1677110400&v=beta&t=EkhqvG2l6sZmd9lKYxUhgAUOUq1GJDjuZ7ABjg3BE_k" alt="">
+<img src="https://media.licdn.com/dms/image/D4D16AQG14EQYrEIIyw/profile-displaybackgroundimage-shrink_350_1400/0/1677953164828?e=1687392000&v=beta&t=i7YZ42KCVODiAqQOUiRo1DY2TKix8p9Muqgmn-XCqqo" alt="">
+
 <h1 align="center">Hi 👋, I'm Mrunal Tarwatkar</h1>
 <h3 align="center">I am interested in Web Development📱 and Web Applications 🈸!</h3>
 
@@ -16,6 +17,7 @@ I am a second year student fascinated to programming languages and competitive p
 🔹🤝 I’m looking for help with **Flutter Development !** <br>
 🔹👨‍💻 All of my projects are available at **[( On this GitHub profile )]** <br>
 🔹💬 Ask me about **Marketing, DSA, Web development** <br>
+🔹📫 How to reach me **Email : mrunatarwatkar018@gmail.com** <br>
 🔹📫 How to reach me **Telegram Id : @mruna_3947** <br>
 🔹⚡ Fun fact : **Life Is All About Next Step !**
 
