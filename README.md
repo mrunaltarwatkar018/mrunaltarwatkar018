@@ -1,5 +1,14 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQG14EQYrEIIyw/profile-displaybackgroundimage-shrink_350_1400/0/1677953164828?e=1687392000&v=beta&t=i7YZ42KCVODiAqQOUiRo1DY2TKix8p9Muqgmn-XCqqo" alt="">
+<!-- <img src="https://media.licdn.com/dms/image/D4D16AQG14EQYrEIIyw/profile-displaybackgroundimage-shrink_350_1400/0/1677953164828?e=1687392000&v=beta&t=i7YZ42KCVODiAqQOUiRo1DY2TKix8p9Muqgmn-XCqqo" alt="">
+-->
 
+<div id="header" align="center">
+  <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="350" height="250"/>
+</div>
+<!---GIF--->
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+  
 <h1 align="center">Hi 👋, I'm Mrunal Tarwatkar</h1>
 <h3 align="center">I am interested in Web Development📱 and Web Applications 🈸!</h3>
 
