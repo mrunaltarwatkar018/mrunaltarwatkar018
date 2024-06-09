@@ -17,7 +17,7 @@
 <p align="right"> <a href="https://twitter.com/mrunal6219" target="blank"><img src="https://img.shields.io/twitter/follow/mrunal6219?logo=twitter&style=for-the-badge" alt="mrunal6219" /></a> </p>
 
 
-I am a second year student fascinated to programming languages and competitive programming knows C/C++, Python, Html, CSS, JS, DSA and know learning React js . Since I respect the time, I always deliver content within the promised timeframe. I understand and respect the fact, that there is a story behind every brand, behind every individual.
+I am a final year student fascinated to programming languages and competitive programming knows C/C++, Python, Html, CSS, JS, DSA and know learning React js . Since I respect the time, I always deliver content within the promised timeframe. I understand and respect the fact, that there is a story behind every brand, behind every individual.
 
 # 💫 About Me:
 🔹🔭 I’m currently working on **Web development** <br>
