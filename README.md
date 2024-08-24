@@ -16,9 +16,18 @@
 
 <p align="right"> <a href="https://twitter.com/mrunal6219" target="blank"><img src="https://img.shields.io/twitter/follow/mrunal6219?logo=twitter&style=for-the-badge" alt="mrunal6219" /></a> </p>
 
-
-I am a final year student fascinated to programming languages and competitive programming knows C/C++, Python, Html, CSS, JS, DSA and know learning React js . Since I respect the time, I always deliver content within the promised timeframe. I understand and respect the fact, that there is a story behind every brand, behind every individual.
-
+<p>
+Hello, I'm Mrunal Tarwatkar, currently pursuing a degree in Electronics and Telecommunication Engineering from GCOEN, with an expected graduation in 2025. Alongside my studies, I work as a web developer and freelancer, specializing in building responsive, user-friendly websites and applications. My passion for technology extends beyond just coding; I enjoy staying updated with the latest industry trends and continuously enhancing my skill set.
+</p>
+<p>
+In addition to my technical pursuits, I'm an avid consumer of movies, series, and video games. These hobbies not only provide me with entertainment but also inspire creativity and critical thinking, which I often apply to my professional work. I believe in maintaining a balanced lifestyle, where continuous learning and personal enjoyment go hand in hand.
+</p>
+<p>
+I'm always excited to take on new challenges, whether it's a complex project or a unique freelance opportunity. Let’s connect and explore how we can collaborate or share insights in the world of technology and entertainment.
+</p>
+<p>
+Whether it's a coding challenge, a creative project, or a new recipe, I approach every task with enthusiasm and a problem-solving mindset. I'm always ready to learn, grow, and face new challenges, making me a versatile and reliable professional. 
+</p>
 # 💫 About Me:
 🔹🔭 I’m currently working on **Web development** <br>
 🔹🌱 I’m currently learning **DSA, Web Development, MERN Stack Development** <br>
